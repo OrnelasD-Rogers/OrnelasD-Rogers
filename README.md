@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Professional Summary
+### Professional Summary
 
 I am a **Senior Software Engineer** with a strong background in Mechatronics Engineering, applying analytical rigor to distributed systems. I specialize in the full lifecycle of data: from **high-performance Java backends** to **offline-first Flutter mobile apps**.
 
