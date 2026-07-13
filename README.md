@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vinicius Ornelas 👋</h1>
+<h1 align="center">Hi there, I'm Vinicius Ornelas </h1>
 <h3 align="center">Senior Software Engineer | Java & Flutter Specialist | Offline-First Architectures</h3>
 
 <p align="center">
